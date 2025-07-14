@@ -1,6 +1,6 @@
 # Cat Photo App 
 
-This is my very first HTML practice project — built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/).
+This is my very first HTML practice project, built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/).
 
 ## Features
 - Semantic HTML
